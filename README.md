@@ -1,4 +1,4 @@
-# c-fibonacci
+# fibonacci-c
 
 # Question1
 
